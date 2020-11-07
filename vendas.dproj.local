@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/18 21:39:44.000.753,=C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/14 01:50:24.000.918,=C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/15 22:56:43.000.578,=C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/06 15:34:14.000.123,=C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/01 02:16:05.000.021,=C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/09 22:15:44.000.797,=C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/27 01:19:01.000.666,=C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/27 01:28:37.000.546,C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\gcampos\Documents\Projetos\wktechnology\Uprincipal.pas</Transaction>
+    <Transaction>2020/10/27 01:28:37.000.546,C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\gcampos\Documents\Projetos\wktechnology\Uprincipal.dfm</Transaction>
+    <Transaction>2020/10/27 01:28:51.000.995,C:\Users\gcampos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\gcampos\Documents\Projetos\wktechnology\vendas.dproj</Transaction>
+    <Transaction>2020/10/27 01:29:00.000.518,=C:\Users\gcampos\Documents\Projetos\wktechnology\Unit1.pas</Transaction>
+    <Transaction>2020/10/27 01:36:30.000.865,C:\Users\gcampos\Documents\Projetos\wktechnology\Unit1.dfm=C:\Users\gcampos\Documents\Projetos\wktechnology\Udados.dfm</Transaction>
+    <Transaction>2020/10/27 01:36:30.000.865,C:\Users\gcampos\Documents\Projetos\wktechnology\Unit1.pas=C:\Users\gcampos\Documents\Projetos\wktechnology\Udados.pas</Transaction>
+    <Transaction>2020/11/06 00:33:31.727,=C:\Users\gcampos\Documents\Projetos\wktechnology\Unit1.pas</Transaction>
+    <Transaction>2020/11/06 00:52:42.518,C:\Users\gcampos\Documents\Projetos\wktechnology\Ubusca.dfm=C:\Users\gcampos\Documents\Projetos\wktechnology\Unit1.dfm</Transaction>
+    <Transaction>2020/11/06 00:52:42.518,C:\Users\gcampos\Documents\Projetos\wktechnology\Ubusca.pas=C:\Users\gcampos\Documents\Projetos\wktechnology\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
